@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from lex import *
+from tokenizer import *
 @dataclass
 class TreeNode:
     pass

@@ -2,7 +2,7 @@
 This is the main file for the Compiler project.
 It will take a file name as input and interpret the code in it.
 """
-from lex import *
+from tokenizer import *
 from parser import *
 from compiler import *
 from interpreter import *

@@ -1,3 +1,7 @@
+"""
+This module contains the Tokenizer class, which is responsible for tokenizing the input code.
+It takes a string of code and breaks it down into tokens, which are then used by the parser to create an abstract syntax tree (AST).
+"""
 from dataclasses import dataclass
 from enum import StrEnum, auto
 from typing import Any, Generator
