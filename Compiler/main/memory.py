@@ -2,7 +2,7 @@ from dataclasses import dataclass
 @dataclass
 class Memory():
     name : str
-    value : int
+    value : int = -999999
     def __repr__(self):
         return f"Memory({self.name}, {self.value})"
 class MemoryManager():

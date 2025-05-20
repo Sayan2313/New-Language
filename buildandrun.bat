@@ -1,3 +1,3 @@
 @echo off
-.venv\Scripts\python.exe Compiler\main.py src\Main.txt
+.venv\Scripts\python.exe Compiler\main\main.py src\%1
     

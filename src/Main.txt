@@ -1,4 +1,2 @@
-dhori x = 2 * 3
-dhori y = 32 * 2
-dekhao x
-dekhao y
+dhori x = 20.534 + 2.3 ;
+dekhao x ;

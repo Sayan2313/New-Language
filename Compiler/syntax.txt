@@ -1,5 +1,5 @@
 1) Declare a variable:-
-    * dhori {variable name} = {mathematical expression}
+    * dhori {variable name} = {interger number} ;
+    * dhori {variable name} = {mathematical expression} ;
 2) Printing in Console:-
-    * dekhao {variable name}
-    * dekhao 23
+    * dekhao {variable name} ;
